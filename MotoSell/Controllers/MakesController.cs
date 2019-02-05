@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MotoSell.Controllers.Resources;
-using MotoSell.Models;
+using MotoSell.Core.Models;
 using MotoSell.Presistance;
 
 namespace MotoSell.Controllers

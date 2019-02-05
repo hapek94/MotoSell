@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MotoSell.Models
+namespace MotoSell.Core.Models
 {
     public class Make
     {
